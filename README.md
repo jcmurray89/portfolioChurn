@@ -1,8 +1,8 @@
-###Readme for Churn Project by Josh Murray
+### Readme for Churn Project by Josh Murray
 
 ---
 
-###Purpose and Background:
+### Purpose and Background:
 
 This is a portfolio project to demonstrate aptitude with reading in, cleaning, performinf functions on, and analyzing data using python's pandas library. 
 
@@ -29,7 +29,7 @@ Churn: Churn flag target vriable, binary)
 
 ---
 
-**Programs used:
+**Programs used:**
 
 - Anaconda Navigator to manage my dev environment tools [Anaconda](https://docs.anaconda.com/navigator/install/)
 - Jupyter Notebook to write the project [Jupyter](https://jupyter.org/install)
